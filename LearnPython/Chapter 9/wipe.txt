@@ -1,0 +1,4 @@
+There  are some random text for wipe out 
+In this case the whole text are going to wipe out 
+Make sure you save the content somewhere else.
+And code with python thank you!
