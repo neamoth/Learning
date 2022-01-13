@@ -1,11 +1,10 @@
 console.log('This is dom js')
 let my = document;
-my = document.all;
+// my = document.all;
 // my = document.body;
 // my = document.forms;
 // Array.from(my).forEach(function(element){
 //     console.log(element);
 // })
-my = document.links;
-
+my = document.links[1];
 console.log(my);
