@@ -1,0 +1,1 @@
+console.log('Local and session storage in javaScript');
