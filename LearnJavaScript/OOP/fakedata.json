@@ -1,0 +1,42 @@
+[
+    {
+        "fruitName": "Apple",
+        "price": "100$"
+    },
+    {
+        "fruitName": "Apricot",
+        "price": "30$"
+    },
+    {
+        "fruitName": "Banana",
+        "price": "25$"
+    },
+    {
+        "fruitName": "Cherry",
+        "price": "55$"
+    },
+    {
+        "fruitName": "coconut",
+        "price": "36$"
+    },
+    {
+        "fruitName": "Jackfruit",
+        "price": "48$"
+    },
+    {
+        "fruitName": "Lemon",
+        "price": "2$"
+    },
+    {
+        "fruitName": "Lychee",
+        "price": "1$"
+    },
+    {
+        "fruitName": "Mango",
+        "price": "36$"
+    },
+    {
+        "fruitName": "Orange",
+        "price": "29$"
+    }
+]
